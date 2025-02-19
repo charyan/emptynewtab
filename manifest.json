@@ -1,6 +1,6 @@
 {
     "name": "Empty New Tab for Edge",
-    "description": "Empty new page with Edge's theme colors",
+    "description": "Empty new tab with Edge's default theme colors",
     "version": "1.0",
     "manifest_version": 3,
     "chrome_url_overrides": {
